@@ -1,0 +1,16 @@
+關於C subset的描述，應該至少包含下列的部分:
+1. keyword (關鍵字)
+2. data type (所支援的資料型態)
+3. 註解方式
+4. program execution
+   程式可包含多個函式 或
+   只有一個main function 或
+   只有一個main function，再加上 ...
+5. program control flow 
+   Ex: For-loop, If-then-else, ...
+6. program statement
+   Ex: 支援 +, -, *的數學運算、支援哪些邏輯運算、支援哪些比較運算
+
+
+Q: printf(" ... "); => Take the " ... " as a literal 
+
